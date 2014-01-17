@@ -1,4 +1,1 @@
-weather_plugin
-==============
-
-Плагин погоды для kiev.com.ua
+Плагин погоды для сайта http://kiev.com.ua/pogoda/
